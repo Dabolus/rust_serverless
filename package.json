@@ -8,5 +8,9 @@
   },
   "author": "Giorgio Garasto <giorgio@garasto.it>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "serverless": "^1.63.0",
+    "serverless-rust": "^0.3.7"
+  }
 }
